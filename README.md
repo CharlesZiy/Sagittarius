@@ -1,2 +1,2 @@
 # Sagittarius
-A open source krpc project with C++
+The repository contains a set of open source krpc projects with C++.
